@@ -1,6 +1,6 @@
 # Implementations of some LLM finetuning tricks
 
-!!These are for study purpose only 
+## These are for study purpose only 
 
-## How-to 
+### How-to 
 Nagivate to each corresponding folder and run the notebook. 
